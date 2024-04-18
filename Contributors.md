@@ -85,6 +85,7 @@
 - [Deepak Goyal](https://github.com/goyaldpk)
 - [Alexandra Popescu](https://github.com/alexanpo)
 - [Daniel Levandovschi] (https://github.com/tiger55md)
+- [Rahul](https://github.com/rahulram21)
 - [ruiofsunshine] (https://github.com/ruiofsunshine)
 - [Jacob 🥺 Corcho] (https://github.com/RiyaGupta89)
 - [Youssef William 🤸‍♂️] (https://github.com/YoussefWilliam)
